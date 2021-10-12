@@ -203,7 +203,7 @@ body {
 .imgndtext{
   background-image: url(assets/restaurant4.jpg);
   background-position:center;
-  height: 25vh;
+  height: auto;
   width: 60vw;
   margin-bottom: 10rem;
   display: block;
